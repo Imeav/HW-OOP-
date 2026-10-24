@@ -1,0 +1,15 @@
+K:\Programming\HW4.4\HW4.4\bin\Debug\net10.0\HW4.4.exe
+K:\Programming\HW4.4\HW4.4\bin\Debug\net10.0\HW4.4.deps.json
+K:\Programming\HW4.4\HW4.4\bin\Debug\net10.0\HW4.4.runtimeconfig.json
+K:\Programming\HW4.4\HW4.4\bin\Debug\net10.0\HW4.4.dll
+K:\Programming\HW4.4\HW4.4\bin\Debug\net10.0\HW4.4.pdb
+K:\Programming\HW4.4\HW4.4\obj\Debug\net10.0\HW4.4.GeneratedMSBuildEditorConfig.editorconfig
+K:\Programming\HW4.4\HW4.4\obj\Debug\net10.0\HW4.4.AssemblyInfoInputs.cache
+K:\Programming\HW4.4\HW4.4\obj\Debug\net10.0\HW4.4.AssemblyInfo.cs
+K:\Programming\HW4.4\HW4.4\obj\Debug\net10.0\HW4.4.csproj.CoreCompileInputs.cache
+K:\Programming\HW4.4\HW4.4\obj\Debug\net10.0\HW4.4.dll
+K:\Programming\HW4.4\HW4.4\obj\Debug\net10.0\refint\HW4.4.dll
+K:\Programming\HW4.4\HW4.4\obj\Debug\net10.0\HW4.4.pdb
+K:\Programming\HW4.4\HW4.4\obj\Debug\net10.0\HW4.4.genruntimeconfig.cache
+K:\Programming\HW4.4\HW4.4\obj\Debug\net10.0\ref\HW4.4.dll
+K:\Programming\HW4.4\HW4.4\obj\Debug\net10.0\HW4.4.csproj.Up2Date

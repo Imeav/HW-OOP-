@@ -1,0 +1,15 @@
+K:\Programming\HW4.4\HW4.4(2)\bin\Debug\net10.0\HW4.4(2).exe
+K:\Programming\HW4.4\HW4.4(2)\bin\Debug\net10.0\HW4.4(2).deps.json
+K:\Programming\HW4.4\HW4.4(2)\bin\Debug\net10.0\HW4.4(2).runtimeconfig.json
+K:\Programming\HW4.4\HW4.4(2)\bin\Debug\net10.0\HW4.4(2).dll
+K:\Programming\HW4.4\HW4.4(2)\bin\Debug\net10.0\HW4.4(2).pdb
+K:\Programming\HW4.4\HW4.4(2)\obj\Debug\net10.0\HW4.4(2).GeneratedMSBuildEditorConfig.editorconfig
+K:\Programming\HW4.4\HW4.4(2)\obj\Debug\net10.0\HW4.4(2).AssemblyInfoInputs.cache
+K:\Programming\HW4.4\HW4.4(2)\obj\Debug\net10.0\HW4.4(2).AssemblyInfo.cs
+K:\Programming\HW4.4\HW4.4(2)\obj\Debug\net10.0\HW4.4(2).csproj.CoreCompileInputs.cache
+K:\Programming\HW4.4\HW4.4(2)\obj\Debug\net10.0\HW4.4(2).dll
+K:\Programming\HW4.4\HW4.4(2)\obj\Debug\net10.0\refint\HW4.4(2).dll
+K:\Programming\HW4.4\HW4.4(2)\obj\Debug\net10.0\HW4.4(2).pdb
+K:\Programming\HW4.4\HW4.4(2)\obj\Debug\net10.0\HW4.4(2).genruntimeconfig.cache
+K:\Programming\HW4.4\HW4.4(2)\obj\Debug\net10.0\ref\HW4.4(2).dll
+K:\Programming\HW4.4\HW4.4(2)\obj\Debug\net10.0\HW4.4(2).csproj.Up2Date

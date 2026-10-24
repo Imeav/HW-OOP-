@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<ContentPage
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="HW5.MainPage">
+
+    <Grid Padding="20"
+          RowDefinitions="Auto,Auto,*"
+          RowSpacing="15">
+
+        <Label
+            Text="Product Management"
+            FontSize="26"
+            FontAttributes="Bold"
+            Grid.Row="0" />
+
+
+        <HorizontalStackLayout
+            Grid.Row="1"
+            Spacing="10">
+
+            <Button
+                Text="Add Product"
+                BackgroundColor="Gray"
+                TextColor="White"
+                Clicked="OnAddClicked" />
+
+            <Button
+                Text="Delete Product"
+                BackgroundColor="Black"
+                TextColor="White"
+                Clicked="OnDeleteClicked" />
+
+        </HorizontalStackLayout>
+
+    
+        <Grid Grid.Row="2"
+              RowDefinitions="Auto,*"
+              RowSpacing="10">
+
+        
+            <Grid ColumnDefinitions="50,*,110,90"
+                  BackgroundColor="LightGray"
+                  Padding="5">
+
+                <Label
+                    Text="No."
+                    Grid.Column="0"
+                    TextColor="Black"
+                    FontAttributes="Bold" />
+
+                <Label
+                    Text="Name"
+                    Grid.Column="1"
+                    TextColor="Black"
+                    FontAttributes="Bold" />
+
+                <Label
+                    Text="Type"
+                    Grid.Column="2"
+                    TextColor="Black"
+                    FontAttributes="Bold" />
+
+                <Label
+                    Text="Price"
+                    Grid.Column="3"
+                    TextColor="Black"
+                    FontAttributes="Bold" />
+
+            </Grid>
+
+      
+            <ScrollView Grid.Row="1">
+
+                <Grid x:Name="ProductsGrid"
+                      ColumnDefinitions="50,*,110,90"
+                      RowSpacing="8" />
+
+            </ScrollView>
+
+        </Grid>
+
+    </Grid>
+
+</ContentPage>
+
